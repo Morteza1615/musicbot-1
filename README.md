@@ -1,5 +1,5 @@
 <a href="telegram.me/ch_news"><h1>CRUEL TEAM</h1></a>
-<h2>LTD umbrella team :D</h2><br><br><br>
+<h2>music bot | ربات موزیک</h2><br><h3>ورژن 1.0</h3><br><br>
 <h1><mark>نصب ربات</mark></h1>
 <pre>
 توکن,ایدی,ایدی گروه در فایل کانفیگ وارد شود
